@@ -33,7 +33,7 @@ table, th, td {
     background-color:yellow;
 
   }
-      .row {
+    section{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
