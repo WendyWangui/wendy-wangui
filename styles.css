@@ -33,13 +33,14 @@ table, th, td {
     background-color:yellow;
 
   }
-section 
-  {
-      display: flex;
-      flex-direction: row;
-      margin: auto;
-       flex-wrap:wrap;
-      background-color:lightblue;
-     
-  }
+      .row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  position: relative;
+  margin: 0 auto;
+          background-color:lightblue;
+}
+  
   
