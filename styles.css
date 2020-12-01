@@ -40,7 +40,7 @@ table, th, td {
   box-sizing: border-box;
   position: relative;
   margin: 0 auto;
-         background-color: black;
+         background-color: :red;
 }
           
   
